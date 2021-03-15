@@ -1,1 +1,1 @@
-### Seminarski rad iz predemta Razvoj informacijskih sistema na temu "Informacijski sistem za unaprijeđenje nastavnog procesa".
+### Seminarski rad iz predmeta Razvoj informacijskih sistema na temu "Informacijski sistem za unaprijeđenje nastavnog procesa".
